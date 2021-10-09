@@ -10,7 +10,7 @@ Packages you need-
 
 If you use this code, please cite-
 
-@INPROCEEDINGS{8918768,
+```@INPROCEEDINGS{8918768,
   author={N. {Karim} and A. {Zaeemzadeh} and N. {Rahnavard}},
   booktitle={2019 IEEE 29th International Workshop on Machine Learning for Signal Processing (MLSP)}, 
   title={Rl-Ncs: Reinforcement Learning Based Data-Driven Approach For Nonuniform Compressed Sensing}, 
@@ -18,3 +18,4 @@ If you use this code, please cite-
   volume={},
   number={},
   pages={1-6},}
+  ```
